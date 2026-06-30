@@ -1,2 +1,1 @@
-# sumaku-engineering-website
-official website for sumaku engineering
+<!DOCTYPE html><html><body><h1>GALLERY</h1><p>Gallery coming soon.</p></body></html>

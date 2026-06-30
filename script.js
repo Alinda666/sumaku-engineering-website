@@ -1,0 +1,1 @@
+body{font-family:Arial,sans-serif;margin:0}header{background:#0b3d91;color:#fff;padding:20px}nav a{color:#fff;text-decoration:none;margin:0 8px}.hero{padding:80px 20px;background:#eee;text-align:center}section{padding:30px}footer{background:#222;color:#fff;padding:20px;text-align:center}
